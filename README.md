@@ -17,6 +17,8 @@ int main()
 }
 ```
 
+## Lesson 3 - simple input & output ( printf, scanf, placeholder )
+
 - Print a number
 
 We use `%d` as a placeholder for the integer
@@ -61,7 +63,7 @@ int main()
 
 ```
 
-## Lesson 3 - simple input & output ( printf, scanf, placeholder )
+
 ## Lesson 4: Comments
 ## Lesson 5 - Variables and basic data types
 ## Lesson 6 - simple math & operators

@@ -1,8 +1,7 @@
 # C Programming Refresher Course
 `Refreshing my knowledge of C programming` 
-<div>
-Resource: ProgrammingKnowledge <a href= "https://www.youtube.com/watch?v=-CpG3oATGIs" > 
-</div>
+
+Resource: [ProgrammingKnowledge](https://www.youtube.com/watch?v=-CpG3oATGIs)
   
 ## Lesson 1 - CodeBlocks installation
 ## Lesson 2 - C programming introduction and  first ‘hello world’ program

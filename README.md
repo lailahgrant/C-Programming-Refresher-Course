@@ -19,7 +19,8 @@ int main()
 
 - Print a number
 
-We use `%d` as a placeholder
+We use `%d` as a placeholder for the integer
+We use `%f` as a placeholder for a decimal number (float)
 
 ```C
 #include <stdio.h>

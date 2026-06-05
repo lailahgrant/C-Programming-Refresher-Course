@@ -29,9 +29,22 @@ We use `%f` as a placeholder for a decimal number (float)
 int main()
 {
     printf("%d", 32);
+    printf("%f", 45.6);
     return 0;
 }
 
+```
+```C
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+    printf("Hello world!\n");
+    printf("Hello world!\n");
+    printf("The number is = %d", 32);
+    return 0;
+}
 ```
 
 ## Lesson 3 - simple input & output ( printf, scanf, placeholder )

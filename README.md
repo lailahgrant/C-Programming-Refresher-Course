@@ -65,6 +65,25 @@ int main()
 
 
 ## Lesson 4: Comments
+
+```C
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+    printf("Hello world!\n");
+    printf("Hello world!\n");
+    printf("%d %d %d \n", 32, 56, 90);
+    printf("%ld \n", 23); /// large integer
+    printf("%lf \n", 32); /// large float
+    printf("%c \n", 'a'); /// character
+    printf("%s", "Hello World! \n"); /// string
+
+    return 0;
+}
+```
+
 ## Lesson 5 - Variables and basic data types
 ## Lesson 6 - simple math & operators
 ## lesson 7 - if statements

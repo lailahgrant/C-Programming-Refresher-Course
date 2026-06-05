@@ -47,6 +47,20 @@ int main()
 }
 ```
 
+- To print spaced many numbers
+
+```C
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+    printf("%d %d %d", 32, 56, 90);
+    return 0;
+}
+
+```
+
 ## Lesson 3 - simple input & output ( printf, scanf, placeholder )
 ## Lesson 4: Comments
 ## Lesson 5 - Variables and basic data types

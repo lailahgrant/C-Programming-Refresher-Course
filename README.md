@@ -5,6 +5,34 @@ Resource: [ProgrammingKnowledge](https://www.youtube.com/watch?v=-CpG3oATGIs)
   
 ## Lesson 1 - CodeBlocks installation
 ## Lesson 2 - C programming introduction and  first ‘hello world’ program
+
+```C
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+    printf("Hello world!\n");
+    return 0;
+}
+```
+
+- Print a number
+
+We use `%d` as a placeholder
+
+```C
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+    printf("%d", 32);
+    return 0;
+}
+
+```
+
 ## Lesson 3 - simple input & output ( printf, scanf, placeholder )
 ## Lesson 4: Comments
 ## Lesson 5 - Variables and basic data types
